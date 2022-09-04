@@ -1,0 +1,25 @@
+F:\Учебный материал\Python\20 книг по алгоритмам.7z
+F:\Учебный материал\Python\fileTest.txt
+F:\Учебный материал\Python\fileTest1.txt
+F:\Учебный материал\Python\Python Programming - Basics, Multithreading, OOP and NumPy.zip
+F:\Учебный материал\Python\Python_+_Django_с_нуля_до_коммерческих_приложений.zip
+F:\Учебный материал\Python\Python_Flask_с_нуля_CRUD_операции_в_веб_приложении_2022.zip
+F:\Учебный материал\Python\Парсинг сайтов Python  (2021).zip
+F:\Учебный материал\Python\Разработка_Telegram_ботов_на_Pyrogram_Python_2021.zip
+F:\Учебный материал\Python\Books\Django-style.pdf
+F:\Учебный материал\Python\Books\Fluent Python.pdf
+F:\Учебный материал\Python\Books\Python Сборник упражнений.pdf
+F:\Учебный материал\Python\Books\Python, например - Лейси Никола 2021.pdf
+F:\Учебный материал\Python\Books\Python. Быстрый старт - Джейми Чан 2021.pdf
+F:\Учебный материал\Python\Books\Python. Книга рецептов - Дэвид Бизли, Брайан К. Джонс 2019.pdf
+F:\Учебный материал\Python\Books\Python. Полное руководство.pdf
+F:\Учебный материал\Python\Books\Глубокое обучение на Python - Франсуа Шолле 2020.pdf
+F:\Учебный материал\Python\Books\Грокаем_алгоритмы_Иллюстрированное_пособие_для_программистов_и_любопытствующих.pdf
+F:\Учебный материал\Python\Books\Изучаем_Python_5_е_изд_Том_2.pdf
+F:\Учебный материал\Python\Books\Изучаем_регулярные_выражения.pdf
+F:\Учебный материал\Python\Books\Компьютерное зрение на Python 2021.pdf
+F:\Учебный материал\Python\Books\Регулярные выражения.pdf
+F:\Учебный материал\Python\Books\Скрапинг веб-сайтов Python.pdf
+F:\Учебный материал\Python\Рythons lib\Good Program.docx
+F:\Учебный материал\Python\Рythons lib\Study Plan.docx
+F:\Учебный материал\Python\Рythons lib\Правила работы с модулями.docx

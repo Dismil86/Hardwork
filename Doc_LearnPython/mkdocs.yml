@@ -1,0 +1,31 @@
+site_name: Learn Python
+
+nav:
+  - Home: index.md
+  - Python Lessons: 
+        - F-Strings: Python Lessons\Format_method.md
+        - Format_method: Python Lessons\Format_method.md
+        - Strings: Python Lessons\Strings.md
+  - Notebook page :
+        - While Statement: JupNot\While.ipynb
+
+
+
+ 
+
+dev_addr:
+    127.0.0.1:8100
+
+theme:
+    name: material
+
+markdown_extensions:
+    - toc:
+        permalink: True
+
+use_directory_urls: false
+docs_dir: docs
+site_dir: site
+plugins:
+  - mkdocs-jupyter
+  
