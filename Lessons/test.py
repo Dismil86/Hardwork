@@ -58,6 +58,26 @@
 # x = 'Лев Николаевич Толстой написал "Война и мир"'
 # print(x.encode('utf8'))
 ########################################################################
-
-    
-        
+# w = 'phrase'
+# i = 0
+# s = []
+# while i < len(w):
+#     if w[i] is 'a' or w[i] is 'e':
+#         print(f"Ага! Нашлась")
+#         break
+#     else:
+#         s.append(w[i])
+#         print(f"Текущая буква: {w[i]}")
+#         i += 1
+# print("Распечатали все буквы" if len(s) == len(w) else break)
+sum = 0
+for i in range(1000,10000):
+    s = 0
+    x = i
+    while x > 0:
+        n = x % 10
+        s += n
+        x //= 10
+    if s == 20:
+        sum += x
+print(sum)
