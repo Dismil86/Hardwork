@@ -195,5 +195,8 @@ import os
 # with open('StudyPlan.txt','wt') as f:
 #     print(s, file =f)
 # Открытие, чтение файла и сохрание его в переменную
-text =  open('StudyPlan.txt','r').read()
+text = open('D:\ProgrammProjects\LearnPython\Hardwork\Lessons\guest_book.txt')
 #######################################################################
+print(iter(text) is text)
+next(text)
+
